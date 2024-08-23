@@ -32,8 +32,8 @@ background-color: #1c8ce8;
 	font-family: Georgia, sans-serif;
 	font-size: 125%;
 	font-weight: bold;
-	border-left: 3px solid black;
-	border-bottom: 3px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
 	margin-bottom: 5px;
 	padding-right: 30px;
 	padding-left: 30px;
@@ -44,7 +44,7 @@ section {
 	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
-	border: 3px solid black;
+	border: 1px solid black;
 	background-color: #37bfa9;
 }
 p {
